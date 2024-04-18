@@ -2,7 +2,7 @@
 - 👀 i’m interested in improve my developer career.
 - 🌱 i’m currently learning java & spring boot.
 - 📫 you can reach me by my discord (onlybell) and linkedin!
-- 😄 Pronouns: he/him
+- 😄 pronouns: he/him
 - ⚡ fun fact: as a programmer and video game fan, i'm curious about game development. soon, i'll post my projects here.
 
 <!---
