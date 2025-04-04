@@ -1,7 +1,7 @@
 - 👋 hi, i’m gabriel
 - 👀 i’m interested in improve my IT professional career.
 - 🌱 i’m currently learning cloud computing and machine learning.
-- 📫 you can reach me by my discord (gabribell) and linkedin!
+- 📫 you can reach me by my linkedin!
 - 😄 pronouns: he/him
 
 <!---
